@@ -1,0 +1,15 @@
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\bin\Debug\net6.0\Example001_hello_console.exe
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\bin\Debug\net6.0\Example001_hello_console.deps.json
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\bin\Debug\net6.0\Example001_hello_console.runtimeconfig.json
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\bin\Debug\net6.0\Example001_hello_console.dll
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\bin\Debug\net6.0\Example001_hello_console.pdb
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.csproj.AssemblyReference.cache
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.AssemblyInfoInputs.cache
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.AssemblyInfo.cs
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.csproj.CoreCompileInputs.cache
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.dll
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\obj\Debug\net6.0\refint\Example001_hello_console.dll
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.pdb
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\obj\Debug\net6.0\Example001_hello_console.genruntimeconfig.cache
+C:\Users\z0045nsk\Desktop\Git Projects\C_sharp\Examples\Example001_hello_console\obj\Debug\net6.0\ref\Example001_hello_console.dll
